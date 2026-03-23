@@ -1,0 +1,9 @@
+[package]
+name = "psswrd"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.9"
+once_cell = "1.19"
+arboard = "3.4"
